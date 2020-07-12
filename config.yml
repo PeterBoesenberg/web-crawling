@@ -1,0 +1,9 @@
+default:
+  mail:
+    host: "smtp.gmail.com"
+    port: 587
+    user: <your-email>
+    password: <your-password>
+  error_mail: <your-email>
+
+
